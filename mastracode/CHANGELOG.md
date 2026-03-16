@@ -1,5 +1,16 @@
 # mastracode
 
+## 0.9.0-alpha.1
+
+### Minor Changes
+
+- Added adaptive light and dark terminal themes with WCAG-compliant contrast. Editor input, messages, tool output, and interactive components now automatically adjust colors and borders for readability across terminal backgrounds. ([#14337](https://github.com/mastra-ai/mastra/pull/14337))
+
+### Patch Changes
+
+- Updated dependencies [[`dd6ca1c`](https://github.com/mastra-ai/mastra/commit/dd6ca1cdea3b8b6182f4cf61df41070ba0cc0deb), [`4cb4edf`](https://github.com/mastra-ai/mastra/commit/4cb4edf3c909d197ec356c1790d13270514ffef6)]:
+  - @mastra/core@1.13.3-alpha.1
+
 ## 0.9.0-alpha.0
 
 ### Minor Changes
